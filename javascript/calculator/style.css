@@ -1,0 +1,13 @@
+.buttoned{
+    border: none;
+    margin-right: 10px;
+    width: 200px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: black;
+    font-weight: bold;
+    margin-bottom: 5px;
+    border-radius: 5px;
+    background-color: lightblue;
+    
+}

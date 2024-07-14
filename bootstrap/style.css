@@ -1,0 +1,15 @@
+.containers {
+    background-image: url("Flower.png");
+    background-size: cover;
+  }
+.dot{
+    color: pink;
+}
+.Tulip{
+    color:black;
+    background-color: green;
+}
+.Rose{
+    color: black;
+    background-color: pink;
+}
